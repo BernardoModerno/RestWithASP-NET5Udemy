@@ -2,3 +2,4 @@ dotnet new sln -o RestWithASPNETUdemy
 dotnet new webapi -o RestWithASPNETUdemy
 dotnet sln add ./RestWithASPNETUdemy/RestWithASPNETUdemy.csproj
 dotnet run --project RestWithASPNETUdemy
+Ctrl + Shift + i identação de codigo
