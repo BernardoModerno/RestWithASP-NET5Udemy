@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "jBLh9Dzao7Vj3C9imek8jlzEFXSKM1kbNiNGxpvHl31xTwTPiHW2xbIALSYdUzauGiPXnsBLo4i71tHoUwdu6w==",
+  "success": true,
+  "projectFilePath": "/home/bernardo/foo/RestWithASPNETUdemy/RestWithASPNETUdemy/RestWithASPNETUdemy.csproj",
+  "expectedPackageFiles": [
+    "/home/bernardo/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/bernardo/.nuget/packages/microsoft.openapi/1.1.4/microsoft.openapi.1.1.4.nupkg.sha512",
+    "/home/bernardo/.nuget/packages/swashbuckle.aspnetcore/5.5.1/swashbuckle.aspnetcore.5.5.1.nupkg.sha512",
+    "/home/bernardo/.nuget/packages/swashbuckle.aspnetcore.swagger/5.5.1/swashbuckle.aspnetcore.swagger.5.5.1.nupkg.sha512",
+    "/home/bernardo/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.5.1/swashbuckle.aspnetcore.swaggergen.5.5.1.nupkg.sha512",
+    "/home/bernardo/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.5.1/swashbuckle.aspnetcore.swaggerui.5.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
