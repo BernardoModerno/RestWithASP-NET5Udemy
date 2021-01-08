@@ -25,6 +25,7 @@
     ".NETCoreApp,Version=v5.0": {
       "RestWithASPNETUdemy/1.0.0": {
         "dependencies": {
+          "Microsoft.AspNetCore.Mvc.Versioning": "5.0.0-preview.2",
           "Pomelo.EntityFrameworkCore.MySql": "3.2.0",
           "Microsoft.AspNetCore.Antiforgery": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "5.0.0.0",
@@ -315,6 +316,17 @@
         },
         "compile": {
           "RestWithASPNETUdemy.dll": {}
+        }
+      },
+      "Microsoft.AspNetCore.Mvc.Versioning/5.0.0-preview.2": {
+        "runtime": {
+          "lib/net5.0/Microsoft.AspNetCore.Mvc.Versioning.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.7603.11566"
+          }
+        },
+        "compile": {
+          "lib/net5.0/Microsoft.AspNetCore.Mvc.Versioning.dll": {}
         }
       },
       "Microsoft.Bcl.AsyncInterfaces/1.1.1": {
@@ -2200,6 +2212,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Microsoft.AspNetCore.Mvc.Versioning/5.0.0-preview.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-taUZ3lqQ3Wc8qbRp/0PTo9YGooO2WOfmQBJ9JnbyGAyU58NcJ32RlpUOsrPBLEudGAla6fUztTGCnQYx5QnD6A==",
+      "path": "microsoft.aspnetcore.mvc.versioning/5.0.0-preview.2",
+      "hashPath": "microsoft.aspnetcore.mvc.versioning.5.0.0-preview.2.nupkg.sha512"
     },
     "Microsoft.Bcl.AsyncInterfaces/1.1.1": {
       "type": "package",

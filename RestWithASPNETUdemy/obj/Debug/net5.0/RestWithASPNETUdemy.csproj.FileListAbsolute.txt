@@ -31,3 +31,5 @@
 /home/bernardo/foo/RestWithASPNETUdemy/RestWithASPNETUdemy/bin/Debug/net5.0/Newtonsoft.Json.dll
 /home/bernardo/foo/RestWithASPNETUdemy/RestWithASPNETUdemy/bin/Debug/net5.0/Pomelo.EntityFrameworkCore.MySql.dll
 /home/bernardo/foo/RestWithASPNETUdemy/RestWithASPNETUdemy/bin/Debug/net5.0/Pomelo.JsonObject.dll
+/home/bernardo/foo/RestWithASPNETUdemy/RestWithASPNETUdemy/bin/Debug/net5.0/Microsoft.AspNetCore.Mvc.Versioning.dll
+/home/bernardo/foo/RestWithASPNETUdemy/RestWithASPNETUdemy/obj/Debug/net5.0/RestWithASPNETUdemy.MvcApplicationPartsAssemblyInfo.cs
