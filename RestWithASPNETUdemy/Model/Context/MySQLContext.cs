@@ -1,4 +1,4 @@
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 
 namespace RestWithASPNETUdemy.Model.Context
 {
@@ -6,7 +6,7 @@ namespace RestWithASPNETUdemy.Model.Context
     {
         public MySQLContext()
         {
-            
+        
         }
         public MySQLContext(DbContextOptions<MySQLContext> options) : base(options) {}
 
