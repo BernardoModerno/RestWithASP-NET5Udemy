@@ -33,3 +33,15 @@
 /home/bernardo/foo/RestWithASPNETUdemy/RestWithASPNETUdemy/bin/Debug/net5.0/Pomelo.JsonObject.dll
 /home/bernardo/foo/RestWithASPNETUdemy/RestWithASPNETUdemy/bin/Debug/net5.0/Microsoft.AspNetCore.Mvc.Versioning.dll
 /home/bernardo/foo/RestWithASPNETUdemy/RestWithASPNETUdemy/obj/Debug/net5.0/RestWithASPNETUdemy.MvcApplicationPartsAssemblyInfo.cs
+/home/bernardo/foo/RestWithASPNETUdemy/RestWithASPNETUdemy/bin/Debug/net5.0/Evolve.dll
+/home/bernardo/foo/RestWithASPNETUdemy/RestWithASPNETUdemy/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+/home/bernardo/foo/RestWithASPNETUdemy/RestWithASPNETUdemy/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+/home/bernardo/foo/RestWithASPNETUdemy/RestWithASPNETUdemy/bin/Debug/net5.0/Serilog.dll
+/home/bernardo/foo/RestWithASPNETUdemy/RestWithASPNETUdemy/bin/Debug/net5.0/Serilog.AspNetCore.dll
+/home/bernardo/foo/RestWithASPNETUdemy/RestWithASPNETUdemy/bin/Debug/net5.0/Serilog.Extensions.Hosting.dll
+/home/bernardo/foo/RestWithASPNETUdemy/RestWithASPNETUdemy/bin/Debug/net5.0/Serilog.Extensions.Logging.dll
+/home/bernardo/foo/RestWithASPNETUdemy/RestWithASPNETUdemy/bin/Debug/net5.0/Serilog.Formatting.Compact.dll
+/home/bernardo/foo/RestWithASPNETUdemy/RestWithASPNETUdemy/bin/Debug/net5.0/Serilog.Settings.Configuration.dll
+/home/bernardo/foo/RestWithASPNETUdemy/RestWithASPNETUdemy/bin/Debug/net5.0/Serilog.Sinks.Console.dll
+/home/bernardo/foo/RestWithASPNETUdemy/RestWithASPNETUdemy/bin/Debug/net5.0/Serilog.Sinks.Debug.dll
+/home/bernardo/foo/RestWithASPNETUdemy/RestWithASPNETUdemy/bin/Debug/net5.0/Serilog.Sinks.File.dll
