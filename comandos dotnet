@@ -7,4 +7,5 @@ Instalar Evolve pelo Nuget do VsCode
 Instalar Serilog pelo Nuget do VsCode
 Instalar Serilog.AspNetCore pelo Nuget do VsCode
 Instalar Serilog.Sinks.Console pelo Nuget do VsCode
+Instalar microsoft.aspnetcore.mvc.formatters.xml pelo Nuget do VsCode
 
